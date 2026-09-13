@@ -1,0 +1,14 @@
+src
+
+# Tailwind generated file
+src/output.css
+
+# Dependencies
+node_modules/
+
+# Package files
+package.json
+package-lock.json
+
+# Tailwind source
+src/input.css
